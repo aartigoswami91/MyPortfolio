@@ -1,47 +1,70 @@
-<h1 align="center">Hi there, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
-alt="Waving hand animated gif"
-height="50"
-width="55" /> I'm Aarti Goswami</h1>
-<h3 align="center">An Aspiring Data Scientist</h3>
-<div id="header" align="center">
-  <img src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" alt="Computer man" width="100"/>
-</div>
+
+# Aarti Goswami
+*Python Developer*
+
+Dedicated Python Developer with a strong background in developing and implementing Web Aplications and predictive analysis. Experienced in leveraging data-driven insights to drive business decisions and solve complex problems. Seeking a challenging role to apply my expertise in machine learning and data science to deliver innovative solutions and contribute to organizational growth.
+
+## Education
+---
+<li>GLOBAL DATA SCIENCE CERTIFICATION | INSAID ACADEMY | JAN 2022 | TILL DATE </li>
+<li>MASTERS | Rajiv Gandhi University of Technology | JUN 2016 </li>
+<li>BACHELOR OF ENGINEERING | Rajiv Gandhi University of Technology | JUN 2012 </li>
+<li>12TH | Satyam Convent Public School | MAY 2008 </li>
+<li>10TH | Satyam Convent Public School | MAY 2006 </li>
+
+## Work Experience
+---
+Python Developer | Capital one | November 2022 - Present
+---
+<li>Lead the development of a complex web application using Python and Django, resulting in a 20% increase in user engagement.</li>
+<li>Collaborated with cross-functional teams, including front-end developers and UI/UX designers, to create seamless user experiences.</li>
+<li>Implemented and optimized RESTful APIs to improve data communication between the front-end and back-end systems.</li>
+<li>Designed and maintained the database schema, ensuring data integrity and efficient querying.</li>
+<li>Conducted code reviews and provided mentorship to junior developers, improving overall code quality.</li>
+<li>Implemented automated testing using pytest, reducing bug discovery time by 30%.</li>
+<li>Regularly performed code optimizations, resulting in a 15% reduction in application load times.</li>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aartigoswami91&label=Profile%20views&color=0e75b6&style=flat" alt="aartigoswami91" /> </p>
+----
 
+Software Developer | IBM | February 2020 - November 2022
+---
 
-# About Me 🚀
-
-- 🌱 I am a ***Data Science*** enthusiast. I have insights into ***Machine Learning, Deep Learning, Computer Vision and Natural Language Processing*** and I am extending myself towards ***Data Engineering, Cloud and MLOps*** to achieve a level of ***Full-Stack Data Science***.
-
-
-
-# 💻 Tech Stack
-<p align="left"> <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank"> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-
-
-
-
-📈 My Github Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=aartigoswami91&show_icons=true&theme=midnight-purple" alt="aartigoswami91" />
-	
-[Aarti's GitHub stats](https://github-readme-stats.vercel.app/api?username=aartigoswami91&show_icons=true&theme=midnight-purple&hide_title=false)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aartigoswami91)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
-
-
-
-
-
-
-
-
-
+<li>Designed and implemented scalable and maintainable Python-based applications, reducing code complexity and improving overall system performance.</li>
+<li>Led a team of junior developers, providing guidance and mentoring to enhance their Python skills and overall productivity.</li>
+<li>Collaborated with product managers and business analysts to gather and refine project requirements, ensuring alignment with business objectives.</li>
+<li>Utilized Python frameworks like Django and Flask to build robust web applications, implementing RESTful APIs for efficient data exchange.</li>
+<li>Implemented data models and managed databases using SQLAlchemy, optimizing query performance and database indexing.</li>
+<li>Developed and maintained ETL (Extract, Transform, Load) processes for data integration, utilizing Python libraries such as pandas and NumPy.</li>
+<li>Leveraged version control tools like Git to manage code repositories, ensuring smooth collaboration and code version tracking.</li>
+<li>Performed code reviews and conducted unit testing to identify and fix bugs, ensuring the delivery of high-quality software.</li>
+<li>Maintained documentation for codebase, APIs, and technical specifications to facilitate knowledge sharing and onboarding of new team members.</li>
+<li>Utilized Docker and Kubernetes for containerization and orchestration of applications, enhancing deployment efficiency.</li>
+<li>Participated in Agile development methodologies, including daily stand-up meetings and sprint planning, ensuring timely project deliveries.</li>
+<li>Collaborated with DevOps teams to automate deployment pipelines, achieving continuous integration and continuous deployment (CI/CD).</li>
 <br>
-<h2 align="center">Thanks for Visiting!😇</h2>
+
+
+<b>Software Developer | BizrunTime Pvt Ltd | August 2017 - February 2018</b><br>
+---
+
+<li>Developed and maintained a data analysis tool using Python, Pandas, and NumPy, streamlining data processing and analysis workflows.</li> 
+<li>Collaborated with data scientists to implement machine learning models into production systems.</li> 
+<li>Integrated third-party APIs for data retrieval and processing, enhancing the application's functionality.</li> 
+<li>Created and maintained documentation for code, APIs, and development processes.</li> 
+<li>Participated in on-call support and handled critical production issues promptly.</li>
+<li>Conducted regular code refactoring to improve code maintainability and readability.</li><br>
+
+
+<b>Software Developer | Nirvana Soft | August 2016 - August 2017 </b> <br>
+---
+<li>Developed Python scripts and automation tools for data manipulation and analysis, streamlining internal processes and reducing manual workloads.</li>
+<li>Created custom Python modules and libraries to enhance code reusability and maintainability across multiple projects.</li>
+<li>Collaborated with cross-functional teams to troubleshoot and resolve production issues, ensuring minimal system downtime.</li>
+<li>Participated in codebase refactoring initiatives, improving code quality and adherence to best practices.</li>
+<li>Worked with external APIs and web services to integrate third-party data sources into Python applications.</li>
+<li>Implemented security measures, such as input validation and authentication, to protect applications against potential vulnerabilities.</li>
+<li>Conducted performance tuning and optimization of Python applications, improving response times and reducing resource consumption.</li>
+<li>Actively monitored and analyzed application logs to identify and address performance bottlenecks and errors.</li>
+<li>Assisted in the development of technical documentation and user guides, enhancing user understanding of the software.</li> <br>
+
