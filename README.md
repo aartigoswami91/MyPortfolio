@@ -45,7 +45,7 @@ Software Developer | IBM | February 2020 - November 2022
 <br>
 
 
-<b>Software Developer | BizrunTime Pvt Ltd | August 2017 - February 2018</b><br>
+<b>Software Developer | BizrunTime Pvt Ltd | August 2017 - Dec 2019</b><br>
 ---
 
 <li>Developed and maintained a data analysis tool using Python, Pandas, and NumPy, streamlining data processing and analysis workflows.</li> 
